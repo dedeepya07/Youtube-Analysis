@@ -1,7 +1,0 @@
-streamlit
-pandas
-plotly
-matplotlib
-wordcloud
-google-api-python-client
-isodate
