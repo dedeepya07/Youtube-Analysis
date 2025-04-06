@@ -7,7 +7,7 @@ from googleapiclient.discovery import build
 import datetime
 
 # API Key
-API_KEY = "AIzaSyAWJf-FFAm5PgDLcWeilNdOgpZU9uCpMXI"
+API_KEY = "AIzaSyAWJf-FFAm5PgDqwertyuiopasdfghjklzsxdcfvgbhnjm"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
