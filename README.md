@@ -1,3 +1,5 @@
+Deployed Link: https://youtube-analysis-anjani.streamlit.app/
+
 The YouTube Trend Analyzer is an interactive data dashboard built using Streamlit that allows users to visualize and analyze trending YouTube video data in an intuitive and dynamic way. This project supports two modes of operation—one that uses a local CSV file containing historical data, and another that fetches real-time trending videos directly from YouTube using the YouTube Data API v3. Users can toggle between these data sources based on their needs, enabling flexibility for both offline and live analysis.
 
 The tool provides deep insights into video performance trends by leveraging various filters and visualizations. Users can filter videos by publication date range and by category, making it easier to focus on specific content segments. Once filtered, the dashboard displays key performance indicators such as total number of videos, average views, and average duration. These KPIs are dynamically updated based on user selections, offering real-time analytical capabilities.
